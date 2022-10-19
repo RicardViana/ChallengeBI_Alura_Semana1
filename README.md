@@ -1,5 +1,7 @@
 ## Challenge BI
 
+Praticar o desenvolvimento de relatorios gerencias utilizando o Power BI
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Semana 1 - Logística**
