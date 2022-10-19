@@ -1,6 +1,6 @@
-## Challenge BI
+## Challenge BI - Logística
 
-Praticar o desenvolvimento de relatorios gerencias utilizando o Power BI
+Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
