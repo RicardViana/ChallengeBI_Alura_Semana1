@@ -10,7 +10,7 @@ Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://user-images.githubusercontent.com/62486279/132950216-a3e4f253-ee01-4880-b9b4-634914f6f538.png#vitrinedev)
+![](https://user-images.githubusercontent.com/62486279/132950216-a3e4f253-ee01-4880-b9b4-634914f6f538.png#vitrinedev)
 
 ## Detalhes do projeto
 
