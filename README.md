@@ -4,7 +4,7 @@ Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Semana 1 - Logística**
+| :sparkles: Nome        | **Challenge BI - Logística**
 | :label: Tecnologias | Power BI 
 | :rocket: URL         | https://bit.ly/dashboarddelogística
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi
